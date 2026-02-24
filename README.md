@@ -293,7 +293,8 @@ void assert_failed(uint8_t *file, uint32_t line)
  <img width="1092" height="766" alt="Screenshot 2026-02-24 093640" src="https://github.com/user-attachments/assets/a47461c2-0a2c-4fec-aedc-721a0be2b303" />
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- [Proteus dia.pdf](https://github.com/user-attachments/files/25507943/Proteus.dia.pdf)
+ <img width="1074" height="836" alt="image" src="https://github.com/user-attachments/assets/2d97bf58-74da-4154-9f0d-92e6eadbe300" />
+
 
  
 ## Result :
